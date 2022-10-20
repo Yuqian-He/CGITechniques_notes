@@ -22,3 +22,20 @@ parametric representation都是explicit
 ## tangent of curve & surface
 ![](assets/2022-10-18-06-54-57.png)
 
+## three questions
+![](assets/2022-10-19-03-49-19.png)
+
+## cubic polymonials curve segments 三次多项式方程
+用三次多项式方程画面
+
+![](assets/2022-10-19-04-08-00.png)
+![](assets/2022-10-19-04-31-10.png)
+
+# Constructive solid geometry (CSG)
+csg的全称是Constructive Solid Geometry，也就是体素构造表示形式。godot引擎中有支持。主要用于一些形状间的结合，通过联合，相交，相减的操作来组成一个新的网格体。这种技术在有号距离场的形状距离识别中也有相应的应用。
+
+> Prototyping levels with CSG — Godot Engine (stable) documentation in English
+> https://docs.godotengine.org/en/stable/tutorials/3d/csg_tools.html
+
+
+# Volumetric representation
